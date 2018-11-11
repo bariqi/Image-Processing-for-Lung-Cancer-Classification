@@ -17,8 +17,8 @@ References:
 
 [3] Allaoui A E and Nasri M 2012 Medical Image Segmentation by Marker Controlled Watershed and Mathematical Morphology 1LABO MATSI, ESTO, B.P 473, University Mohammed I OUJDA, Maroko
 
-[3] Khalid R 2014 Clustering analysis of cancerous microarray data Journal of Chemical and Pharmaceutical Research 6(9)
+[4] Khalid R 2014 Clustering analysis of cancerous microarray data Journal of Chemical and Pharmaceutical Research 6(9)
 pp 488-493, ISSN: 0975-7384
 
-[4] Kajal N et al 2015 Early Detection of Lung Cancer Using Image Processing Technique: Review International Journal of
+[5] Kajal N et al 2015 Early Detection of Lung Cancer Using Image Processing Technique: Review International Journal of
 Advent Research in Computer and Electronics (IJARCE) 2(2), E-ISSN: 2348-5523

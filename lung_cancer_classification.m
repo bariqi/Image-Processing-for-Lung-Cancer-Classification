@@ -52,8 +52,8 @@ imshow(seg); title('Global Region-Based Segmentation')
 
 %% Binarization for image classification
 hasil=ones(512,512);
-putih=0;
-hitam=0;
+white=0;
+black=0;
 for i=1:512;
     for j=1:512;
         if seg(i,j)==1
@@ -66,17 +66,15 @@ end
 for i=1:512;
     for j=1:512;
         if hasil(i,j)<=0.12
-                hitam=hitam+1;
+                black=black+1;
             else
-                putih=putih+1;
+                white=white+1;
             end
     end
 end
 imshow(hasil)
-hitam
-putih
 threshold=17179
-if hitam>=batas
+if black>=threshold
     ('normal lung')
 else
     ('lung cancer')
